@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**XAT** is a lightweight, architecture-aware hooking library focused on **Address Table manipulation**, providing reliable interception of API calls via:
+**XATHook** is a lightweight, architecture-aware hooking library focused on **Address Table manipulation**, providing reliable interception of API calls via:
 
 - **IAT (Import Address Table)** patching
 - **Delay-IAT** patching (delay-load imports)
